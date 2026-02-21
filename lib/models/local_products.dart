@@ -56,7 +56,7 @@ class LocalProducts {
       category: 'Headphones',
       thumbnail: '',
       images: [],
-      localImage: 'assets/images/Soundcore_Headphone.png',
+      localImage: 'assets/images/sound_core.png',
     ),
     Product(
       id: 1005,

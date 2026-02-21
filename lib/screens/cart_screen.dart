@@ -294,7 +294,7 @@ class _CartItemCard extends StatelessWidget {
   Widget build(BuildContext context) {
     final product = item.product;
     final egpPrice = CartState.productPriceEGP(product);
-    final isHighlighted = product.id == 1002; // MacBook highlighted in design
+    final isHighlighted = product.id == 1002;
 
     return Container(
       padding: const EdgeInsets.all(12),
