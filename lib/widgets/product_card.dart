@@ -5,7 +5,7 @@ import '../models/product_model.dart';
 import '../models/local_products.dart';
 import '../cubits/cart_cubit.dart';
 import '../app_theme.dart';
-import '../screens/cart_screen.dart';
+import '../screens/cart/cart_screen.dart';
 
 class ProductCard extends StatelessWidget {
   final Product product;

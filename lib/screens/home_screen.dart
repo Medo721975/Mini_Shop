@@ -4,7 +4,7 @@ import '../cubits/product_cubit.dart';
 import '../cubits/cart_cubit.dart';
 import '../app_theme.dart';
 import '../widgets/product_card.dart';
-import 'cart_screen.dart';
+import 'cart/cart_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
